@@ -9,6 +9,5 @@ djangorestframework_simplejwt==5.5.1
 pycparser==2.23
 PyJWT==2.10.1
 pypiwin32==223
-pyttsx3==4.4.0
 sqlparse==0.5.3
 tzdata==2025.2
